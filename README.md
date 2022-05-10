@@ -25,6 +25,11 @@ Are  you ready for this ? Hope you like it! :memo:
 :memo: <i> The quiz consists of ten questions about Java. </i> :memo:
 <br>
 <br>
+<br>
+:warning: One question needs to add four image in the quiz file(there are on the folder) :warning:
+
+<br>
+<br>
 <hr>
 <br>
 :clock1: This quiz has a timer set to <strong>15 seconds</strong>.When time reaches 0 the quiz stops and close itself. :clock1:
